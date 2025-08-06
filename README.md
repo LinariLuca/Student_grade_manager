@@ -37,8 +37,6 @@ No external libraries are required. The script uses only standard Python feature
 
 ---
 
----
-
 ## 💡 How to Run 
 
 1. Clone this repository: https://github.com/LinariLuca/Student_grade_manager.git
